@@ -55,7 +55,7 @@ function other(){
 
 function checkwin(){	
 	if ((ba == 1) && (mo == 1) && (bt == 1)){
-		wanner()
+		document.location.href = "YES/index.html";
 	}
 	else {
 		
