@@ -32,14 +32,6 @@ button {
 	padding: auto;
 }
 
-/*.monitor {
-	display: block;
-	height: 100%;
-	width: 100%;
-	border: 30px solid black;
-	border-radius: 10px;
-}*/
-
 .red {
 	display: flex;
 	background-image: url("images/b.PNG");
