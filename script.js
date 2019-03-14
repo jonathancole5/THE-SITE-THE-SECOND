@@ -25,11 +25,7 @@ function peepee2(el){
 function ha(el){
 	window.alert("I am 𝘯𝘰𝘵 looking in there.");
 }
-/* Hey Jonathan, this is Trevor. 
-You used setInteval, which will loop the function indefinitely.
-I would advice you use setTimeout instead, as it is only used once. Not entirely sure what you wanted
-to do, but I thought I would just say that.
-*/
+
 function bach(){
 	ba = 1;
 	checkwin();
